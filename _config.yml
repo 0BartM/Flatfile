@@ -1,6 +1,7 @@
 ---
 title: Titre
 timezone: UTC
+baseurl: 0bartm.github.io/Flatfile
 collections:
   collection:
     title: Collection
