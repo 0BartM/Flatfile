@@ -1,0 +1,6 @@
+title: Titre
+collections: 
+    collection:
+        cours:
+        output: true
+        permalink: ../cours/CompteRendu.md

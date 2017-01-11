@@ -1,0 +1,10 @@
+body {
+  font-family: arial; }
+
+ul {
+  display: inline; }
+
+.wrapper {
+  margin: 0 auto;
+  background-image: url(../img/img.jpeg);
+  background-size: cover; }
