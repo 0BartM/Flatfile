@@ -1,6 +1,14 @@
+---
 title: Titre
-collections: 
-    collection:
-        cours:
-        output: true
-        permalink: ../cours/CompteRendu.md
+timezone: UTC
+collections:
+  collection:
+    title: Collection
+    output: true
+    permalink: "../cours/CompteRendu.md"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
